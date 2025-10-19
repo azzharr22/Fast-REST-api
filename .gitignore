@@ -33,4 +33,5 @@ go.work.sum
 
 
 storage
+!internal/storage
 config
